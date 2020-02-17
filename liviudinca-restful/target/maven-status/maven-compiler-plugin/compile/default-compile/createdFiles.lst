@@ -1,0 +1,5 @@
+com\liviudinca\restful\ProductController.class
+com\liviudinca\restful\ProductRepository.class
+com\liviudinca\restful\Product.class
+com\liviudinca\restful\ProductService.class
+com\liviudinca\restful\Application.class
